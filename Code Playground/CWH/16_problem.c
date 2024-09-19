@@ -24,7 +24,7 @@ int main()
 
     else if (salary > 500000 && salary <= 1000000)
     {
-        tax = salary * 2/100;
+        tax = salary * 20/100;
         printf("Your Tax amount is:- %d", tax);
     }
 
