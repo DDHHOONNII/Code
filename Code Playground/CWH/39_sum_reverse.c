@@ -1,3 +1,4 @@
+// WAP to sum and reverse the given number... 
 #include <stdio.h>
 
 int main()
