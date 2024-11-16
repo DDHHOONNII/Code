@@ -9,7 +9,7 @@ int main()
     printf("Enter Year:- ");
     scanf("%d", &year);
 
-    if (year % 4 == 0 && year % 100 != 0|| year%400==0)
+    if (year % 4 == 0 || year % 100 != 0|| year%400==0)
     {
         printf("%d is LEAP year", year);
     }
